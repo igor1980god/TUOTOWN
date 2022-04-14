@@ -1,0 +1,193 @@
+
+@media(max-width: 1400px){
+ .slick-btn{
+   display: none!important;
+    }
+}
+
+
+
+
+
+@media(max-width: 1200px){
+  .footer-top{
+    display: block;
+  }
+  .footer-top__about-box{
+    max-width: 100%;
+    margin-right: 0;
+  }
+  .interesting__box{
+    justify-content: center;
+  }
+  .interesting__inner{
+    margin-right: 5px;
+    margin-top: 10px;
+  }
+}
+
+
+@media(max-width: 938px){
+  .catalog__inner-smol{
+    margin-top: 20px;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+@media(max-width: 767px){
+  .header__box-navigation-tel{
+    display: none;
+  }
+}
+
+
+
+
+
+@media(max-width: 767px){
+  .footer-bottom__wrapper{
+    display: block;
+  }
+  .footer-bottom__text{
+    margin-bottom: 20px;
+  }
+  .galirea{
+    display: none;
+  }
+  .info{
+    display: none;
+  }
+}
+
+
+
+@media(max-width: 660px){
+  .catalog__inner-smol{
+    margin-top: 0;
+  }
+  .catalog__inner-smol-one{
+    display: none;
+  }
+}
+
+
+
+
+
+@media(max-width: 635px){
+  .catalog-tabs__item{
+    margin-right: 17px;
+    margin-left: 28px;
+  }
+}
+
+
+
+
+
+@media(max-width: 540px){
+  .header__box-navigation-img{
+    display: none;
+  }
+  .header__box-navigation-mobil{
+    display: block;
+  }
+  .header__box-user-link-2{
+    display: block;
+    margin-left: 30px;
+    margin-top: 1px;
+  }
+  .header__box-user{
+    display: none;
+  }
+  .top-slider__title{
+    font-size: 30px;
+    line-height: 38px;
+  }
+  .top-slider__text{
+    font-size: 16px;
+  }
+}
+
+
+
+
+
+
+
+@media(max-width: 440px){
+  .top-slider__title{
+    font-size: 26px;
+  }
+  .top-container{
+    padding-left: 40px;
+  }
+  .interesting__img{
+    max-width: 290px;
+  }
+  .interesting__title{
+    bottom: 100px;
+    width: 291px;
+    padding: 13px 39px 22px 33px;
+  }
+  .catalog-tabs::before{
+    width: 270%;
+  }
+  .catalog-tabs::after{
+    width: 243%;
+  }
+  .catalog__inner{
+    padding-bottom: 15px;
+  }
+}
+
+
+
+
+@media(max-width: 380px){
+  .footer-top__about-box-inner{
+    display: block;
+  }
+  .footer-top__about-text{
+    margin-left: 0;
+  }
+  .footer-top__about-img {
+    margin-right: -1px;
+    margin-bottom: 20px;
+  }
+}
+
+
+
+
+
+@media(max-width: 370px){
+  .header__box-navigation-box{
+    margin-right: 20px;
+  }
+  .header__box-user-link-2{
+    margin-left: 20px;
+  }
+  .catalog__inner-smol{
+    text-align: center;
+  }
+}
+
+
+
+@media(max-width: 340px){
+  .top-container{
+    padding-left: 30px;
+  }
+  .catalog-email__btn{
+    padding: 21px 140px 20px 26px;
+  }
+}

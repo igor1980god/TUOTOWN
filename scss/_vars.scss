@@ -1,0 +1,54 @@
+$accent: #fe3e57;
+$defauld: #8d8d8d;
+$title: #fff;
+$bg: #f6f6f6;
+
+%jula-400{
+  font-family: 'Jura-Regular',sans-serif;
+  font-weight: 400;
+}
+
+%jula-500{
+  font-family: 'Jura-Medium',sans-serif;
+  font-weight: 500;
+}
+
+%montserrat-400{
+  font-family: 'Montserrat-Regular',sans-serif;
+  font-weight: 400;
+}
+
+%montserrat-500{
+  font-family: 'Montserrat-Medium',sans-serif;
+  font-weight: 500;
+}
+
+%montserrat-700{
+  font-family: 'Montserrat-Bold',sans-serif;
+  font-weight: 700;
+}
+
+%btn{
+  padding: 12px 26px;
+  text-transform: uppercase;
+  color: #fff;
+  background-color: $accent;
+  
+  box-shadow: 0px 7px 20px 0px rgba(255, 17, 48, 0.3);
+  cursor: pointer;
+}
+
+%checkbox-hidden{
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  position: absolute;
+}
+
+// @function max($numbers...) {
+//   @return m#{a}x(#{$numbers});
+// }
+// @function min($numbers...) {
+//   @return m#{i}n(#{$numbers});
+// }
